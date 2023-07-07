@@ -108,7 +108,7 @@ img {
 
 .product__title {
   font-size: 2rem;
-  columns: var(--clr-neutral-white);
+  color: var(--clr-neutral-white);
   font-family: var(--ff-base);
   font-weight: var(--fw-bold);
   text-align: center;
