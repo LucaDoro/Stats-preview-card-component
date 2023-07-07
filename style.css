@@ -182,6 +182,7 @@ img {
   
   .product__content {
     align-content: center;
+    order: -1;
   }
 
   .product__title {
